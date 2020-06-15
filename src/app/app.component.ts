@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { quotes } from '../quotes';
 import { quotes } from './quotes';
-
 @Component({
   selector: 'app-quotes',
   templateUrl: './quotes.component.html',
@@ -22,5 +21,6 @@ export class GoalComponent implements OnInit {
 ngOnInit() {
   }
 }
+
 
   
