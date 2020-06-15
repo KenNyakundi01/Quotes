@@ -22,5 +22,4 @@ export class GoalComponent implements OnInit {
 
   ngOnInit() {
   }
-
 }
